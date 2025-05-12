@@ -1,4 +1,4 @@
-<h1 align="left" Hey It's Suhani ✨ </h1>
+<h1 align="left"> Hey It's Suhani Sharma ✨ </h1>
 
 
 - 🌱 I’m currently learning **FULL STACK DEVLOPMENT**
