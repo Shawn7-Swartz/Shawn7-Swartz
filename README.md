@@ -9,7 +9,7 @@
 
 - ❤️ I'd love to collaborate on **LinkedIn , GitHub**
 
-- ⚡ Fun fact **I am a person with fiesty personality , can be your fronface in presenting your projects🎈.**
+- ⚡ Fun fact : **I am a person with fiesty personality , can be your fronface in presenting your projects🎈.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
