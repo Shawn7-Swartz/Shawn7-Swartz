@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on : https://flawsersin7.wordpress.com/?ref=spelling&_gl=1*1whb215*_gcl_au*NDMxNjU1ODguMTczNjAxODY4MA
 
-- 🚀 I'm intersted in **CYBERSECURITY 🔐 , WEB DEV 🌐 , MARKETING 💹**
+- 🚀 I'm intersted in ** MARKETING 💹, CYBERSECURITY 🔐 , WEB DEV 🌐 **
 
 - ❤️ I'd love to collaborate on **LinkedIn , GitHub**
 
