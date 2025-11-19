@@ -1,15 +1,15 @@
-<h1 align="left"> Hey It's Suhani Sharma ✨ </h1>
+<h1 align="left"> Hey this side, Suhani Sharma ✨ </h1>
 
 
-- 🌱 I’m currently learning **FULL STACK DEVLOPMENT**
+- 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
-- 📝 I regularly write articles on : https://flawsersin7.wordpress.com/?ref=spelling&_gl=1*1whb215*_gcl_au*NDMxNjU1ODguMTczNjAxODY4MA
+- 📝 I regularly write articles on : https://flawsersin08.wordpress.com/
 
-- 🚀 I'm intersted in **MARKETING 💹, CYBERSECURITY 🔐 , WEB DEV 🌐**
+- 🚀 I'm intersted in **TECHNICAL WRITING 📑, MARKETING 💹, CYBERSECURITY 🔐 , WEB DEV 🌐**
 
 - ❤️ I'd love to collaborate on **LinkedIn , GitHub**
 
-- ⚡ Fun fact : **I am a person with fiesty personality , can be your fronface in presenting your projects🎈.**
+- ⚡ Fun fact : **I am a person with fiesty personality , can be your frontface in presenting your projects🎈.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
