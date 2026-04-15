@@ -1,15 +1,14 @@
-<h1 align="left"> Hey this side, Suhani Sharma ✨ </h1>
+<h1 align="left"> Suhani Sharma ✨ </h1>
 
 
-- 🌱 I’m currently learning **Machine Learning and Deep Learning**
+- 🌱 **CSE Undergraduate | Backend + Applied AI | Building GaurdianID**
 
 - 📝 I regularly write articles on : https://flawsersin08.wordpress.com/
 
-- 🚀 I'm intersted in **TECHNICAL WRITING 📑, MARKETING 💹, CYBERSECURITY 🔐 , WEB DEV 🌐**
+- 🚀 I'm intersted in **MACHINE LEARNING🤖 , COMPUTER VISION👓, TECHNICAL WRITING 📑, MARKETING 💹, CYBERSECURITY 🔐 , WEB DEV 🌐**
 
-- ❤️ I'd love to collaborate on **LinkedIn , GitHub**
+- ❤️ I'd love to collaborate on **LinkedIn :https://www.linkedin.com/in/suhani-sharma-46a959291/**
 
-- ⚡ Fun fact : **I am a person with fiesty personality , can be your frontface in presenting your projects🎈.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
