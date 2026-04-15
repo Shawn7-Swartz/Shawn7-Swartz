@@ -3,11 +3,11 @@
 
 - 🌱 **CSE Undergraduate | Backend + Applied AI | Building GaurdianID**
 
-- 📝 I regularly write articles on : https://flawsersin08.wordpress.com/
-
 - 🚀 I'm intersted in **MACHINE LEARNING🤖 , COMPUTER VISION👓, TECHNICAL WRITING 📑, MARKETING 💹, CYBERSECURITY 🔐 , WEB DEV 🌐**
 
 - ❤️ I'd love to collaborate on **LinkedIn :https://www.linkedin.com/in/suhani-sharma-46a959291/**
+  
+- 📝 I regularly write articles on : https://flawsersin08.wordpress.com/
 
 
 <h3 align="left">Connect with me:</h3>
